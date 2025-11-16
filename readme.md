@@ -217,10 +217,7 @@ AD-ProjectName/
 | YouTube “UI/UX Design”  | Video tutorials on modern web interface layouts and patterns.         | [https://www.youtube.com](https://www.youtube.com)                         |
 | Claude.AI               | Inspiration for color schemes, typography, and component layouts.     | [https://claude.ai/](https://claude.ai/)                                   |
 | Google Platform         | Searched images for my landing page and other pages                   | [https://www.google.com/](https://www.google.com/)                         |
-<<<<<<< HEAD
-=======
 
->>>>>>> development
 
 
 <!-- ! Add what tools aided you -->
